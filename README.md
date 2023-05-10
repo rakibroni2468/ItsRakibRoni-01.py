@@ -38,7 +38,7 @@ AUTHOR:
 ```
 #### Screenshots:
 
-<p align="center"><img src="https://github.com/U7P4L-IN/Auto_Cookies/blob/main/IMG_20230507_073712.jpg">
+<p align="center"><img src="https://media.tenor.com/rePDfDWO3XoAAAAM/hacking.gif width="70px">
 
 
 #### Tools Languages :
