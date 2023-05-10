@@ -1,6 +1,3 @@
-![](https://github.com/U7P4L-IN/U7P4L-IN/blob/main/Python.gif)
-
-
 
 🌺Welcome🌺
 --------|
